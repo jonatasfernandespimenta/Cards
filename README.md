@@ -1,2 +1,5 @@
 # Cards
-[https://github.com/jonatasfernandespimenta/Cards/blob/master/app.gif](Click here to see the project)
+Click at the image to see the project running
+<p align="center">
+  <img src="app.gif" width="180" alt="Gif"/>
+</p>
